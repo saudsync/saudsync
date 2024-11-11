@@ -1,7 +1,7 @@
 ![under](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhItqbLW5Zx_zkmf9Cwjvh9XlzQDzOvdsh1R9JCWr-8c0hdk_4GBASWj-jJ_8VCR5RKRI5KfY0r8Omn1x980K1vS-4g1ntkdbv8m1P48XBom6tWs9YEwXqq-O7g_qqrybQrxhz5Mb6VBtE_0jczPrrJYdourYjVwnZArKOAIBBOtcvN4Dj8uIRHibTdB5Y/s3000/readme%20pic.png)
 
 ## Hey there, nice to meet you! 👋
----
+--
 ### I'm Saud (he/him), a coder with a passion for creation.
 
 **Currently looking for New Grad SWE positions. Feel free to contact me on my LinkedIn below.**
