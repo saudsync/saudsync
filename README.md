@@ -32,3 +32,11 @@ I'd love to connect! If you'd like to talk opportunities, or even just want to c
 ![](https://visitor-badge.glitch.me/badge?page_id=saud)
 
 ![pngfind com-blue-banner-png-101081](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWzGoUAtM2gqGkHokrxwCsVUpq82E-GBY1YeQ3ZE0Pq9OZ0h0-TQIOPmd2LiEvXOP9yXqN69t4iDTdR-LC_2i8E_RsI2Wdj1YkrnJnnwENMTblIr73ZNYBLcmB6wf3gneqQbFZzz5AEL7yQR7TWDgjGYeE9Be1vc3YWDEY2aZ6stjSLXk-uirE1YODRNiD/s1440/github%20temp.png)
+
+## 🏅 My Holopin Badge Board
+
+<p align="center">
+  <a href="https://holopin.io/@saudsync">
+    <img src="https://holopin.me/saudsync" alt="@saudsync's Holopin board" />
+  </a>
+</p>
